@@ -1,0 +1,11 @@
+Nombre: Pablo Abraham Petet Garcia 
+Código de empleado: Soporte 2
+
+Nombre del equipo: Soporte2
+Procesador: Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
+RAM instalada: 7.89 GB
+Versión de Windows: 10.0.19045 (Professional)
+Dirección IP: 192.168.2.234
+Discos Duros:
+Modelo: TOSHIBA DT01ACA050, Tipo: Fixed hard disk media, Tamaño: 465.76 GB
+Modelo: HS-SSD-C100 120G, Tipo: Fixed hard disk media, Tamaño: 111.79 GB
